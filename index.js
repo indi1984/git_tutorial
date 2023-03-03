@@ -1,1 +1,3 @@
-// comment
+// Javascript
+
+console.log('Hello World!');
